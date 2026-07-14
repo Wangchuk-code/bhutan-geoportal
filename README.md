@@ -6,6 +6,9 @@ Geologic Map of Bhutan (Long, McQuarrie, Tobgay, Grujic & Hollister, 2011, *Jour
 searchable geologic-unit legend, and per-unit descriptions.
 
 ## Run it
+use this link to explore:
+https://wangchuk-code.github.io/bhutan-geoportal/
+
 
 Open `index.html` in a browser — no server or build step required.
 (Optionally serve it: `python3 -m http.server` then visit http://localhost:8000.)
